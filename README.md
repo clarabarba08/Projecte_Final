@@ -79,5 +79,5 @@ Els 4 leds estan connectats en sèrie a una resistència de 330Ohm cadascun d'el
 
 
 ## EXPLICACIÓ DEL CODI
-El codi ha estat explicat en la presentació oral.
+El codi ha estat explicat en la presentació oral. El vídeo que hem presentat en l'exposició és el següent: [Vídeo presentació](https://drive.google.com/file/d/1YeS3rVllJBnLqHAS8AHvcMxf7rf8rM7r/view?usp=sharing)
 
